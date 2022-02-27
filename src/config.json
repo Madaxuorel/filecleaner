@@ -1,0 +1,20 @@
+{
+    "keywords": [
+        {
+            "code" :[
+                {
+                    "extensions":[".py",".js",".c",".exe"],
+                    "names":["main","test"]
+                }
+            ],
+            "cours":[
+                {
+                    "extensions":[".txt", ".pdf", ".csv"],
+                    "names":["cours","TD","Exo"]
+                    
+                }
+            ]
+        }
+    ]
+
+}
